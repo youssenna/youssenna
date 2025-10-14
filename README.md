@@ -4,12 +4,12 @@
 <h1 align="center">Hi 👋, I am Youssef Ennajar</h1> 
 
 
+<div align="center"><img alt="coding" width="600" src="https://badge.mediaplus.ma/binary/yousenna" /></div>
 ## 👋 Hello, I’m a student at 1337 Programming School Morocco 🇲🇦, deeply passionate about coding and continuous learning.
 ## 🚀 I love exploring algorithms, full-stack development, and writing efficient, clean C code that solves real problems.
 ## 💡 I’m always diving into hands-on projects that challenge my logic, creativity, and system-level understanding.
 ## 🤝 I enjoy collaborating on open-source and innovative tech projects that make a meaningful impact.
 ## 🌱 Currently focused on strengthening my skills in low-level programming, cybersecurity, and problem-solving.
-<div align="center"><img alt="coding" width="600" src="https://badge.mediaplus.ma/binary/yousenna" /></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssenna&label=Profile%20views&color=0e75b6&style=flat" alt="youssenna" /> </p>
 
