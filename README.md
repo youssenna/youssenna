@@ -3,7 +3,7 @@
 # Hi 👋, I'm **Youssef Ennajar**
 ### A passionate Software Developer from **Morocco** 🇲🇦
 
-<img align="center" alt="coding" width="300" src="https://badge.mediaplus.ma/binary/yousenna" />
+<img align="center" alt="coding" width="600" src="https://badge.mediaplus.ma/binary/yousenna" />
 
 - 🔭 I’m currently learning: **C++, C, HTML, CSS, JavaScript**  
 - 💬 Ask me about: **C++, C, HTML, CSS, JavaScript, TypeScript**  
