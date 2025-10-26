@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 
-<h1 align="center">Hi 👋, I am Youssef Ennajar</h1> 
+<h1 align="center">Hi , I am Youssef Ennajar</h1> 
 
 <div align="center"><img alt="coding" width="600" src="https://badge.mediaplus.ma/binary/yousenna" /></div>
 
