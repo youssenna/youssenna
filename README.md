@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssenna" alt="youssenna" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://cdn.intra.42.fr/pdf/pdf/184738/en.subject.pdf">born2beroot</a>
+- 🔭 I’m currently working on <a href="https://cdn.intra.42.fr/pdf/pdf/175606/en.subject.pdf">ft_printf</a>
 
 - 🌱 I’m currently learning **C low level and C++**
 
