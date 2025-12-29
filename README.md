@@ -15,13 +15,36 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssenna" alt="youssenna" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/youssenna/push_swap/blob/main/en.subject_push_swap.pdf">push_swap</a>
+- 🔭 I’m currently working on <a href="https://cdn.intra.42.fr/pdf/pdf/190844/en.subject.pdf">Python 00</a>
 
-- 🌱 I’m currently learning **C low level and C++**
+- 🌱 I’m currently learning **C low level and Python**
 
 - 📫 How to reach me **youssefennajar2@gmail.com**
 
 - ⚡ Fun fact **when I learn new things**
+
+
+## 📚 42 / 1337 Common Core Projects
+
+### 🧱 libft — **125**
+- Custom implementation of standard C library functions to build a strong low-level programming foundation.
+- 🔗 [repo of project](https://github.com/youssenna/libft-C_library-)
+  
+### 🐧 Born2beroot — **110**
+- System administration project focused on Linux, virtualization, users, permissions, and security basics.
+  
+### 🖨️ ft_printf — **100**
+- Reimplementation of the printf function, handling variadic arguments and format parsing in C.
+- 🔗 [repo of project](https://github.com/youssenna/ft_printf)
+  
+### 📄 get_next_line — **112**
+- Efficient line-by-line file reader using static variables and careful memory management.
+- 🔗 [repo of project](https://github.com/youssenna/get_next_line)
+  
+### 🔀 push_swap — **125**
+- Stack-based sorting algorithm project focused on minimizing operations.
+- Implemented a cost-based strategy inspired by the Turk Algorithm.
+- 🔗 [repo of project](https://github.com/youssenna/push_swap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
