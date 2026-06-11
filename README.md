@@ -70,17 +70,17 @@ A robust geometric maze generator and pathfinding solver engineered natively in 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ebfa94a7-146f-478a-bcf4-bd422b91f694" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/31b88f44-141f-435a-a0bd-08fc9a0615ef" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7bbd2957-658b-47d8-ab3c-b2a404f1f9f1" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fbd2fd27-6be0-4f80-819b-31ca16a84d7d" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/39a9a0b3-6f97-414e-bc51-8ac366a5b140" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/91d9f256-75b5-484b-8607-6e76840060b6" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/939ebe36-fdf9-4d34-a02e-7ec8e5068036" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ee207587-f389-4ec0-976a-023bea7fc770" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/258aab50-e17b-4f23-9996-df102f6e11b4" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/893773b5-2019-411c-a865-298090e7fdeb" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04da6c60-ebe5-4e89-a4d9-a8dd048e5e20" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/ebfa94a7-146f-478a-bcf4-bd422b91f694" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/31b88f44-141f-435a-a0bd-08fc9a0615ef" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/7bbd2957-658b-47d8-ab3c-b2a404f1f9f1" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/fbd2fd27-6be0-4f80-819b-31ca16a84d7d" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/39a9a0b3-6f97-414e-bc51-8ac366a5b140" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/91d9f256-75b5-484b-8607-6e76840060b6" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/939ebe36-fdf9-4d34-a02e-7ec8e5068036" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/ee207587-f389-4ec0-976a-023bea7fc770" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/258aab50-e17b-4f23-9996-df102f6e11b4" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/893773b5-2019-411c-a865-298090e7fdeb" />
+  <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/04da6c60-ebe5-4e89-a4d9-a8dd048e5e20" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssenna&" alt="youssenna" /></p>
