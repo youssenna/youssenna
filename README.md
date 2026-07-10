@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I am Youssef Ennajar</h1> 
+<p align="center">
+  <a href="https://github.com/youssenna">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=986&text=%F0%9F%91%8BHello!%20I'm%20Youssef%20Ennajar" alt="👋Hello! I&#39;m Youssef Ennajar" />
+  </a>
+</p>
 
 <div align="center"><img alt="coding" width="600" src="https://badge.mediaplus.ma/binary/yousenna" /></div>
 
-### 👋 Hello, I’m a Software Engineering Student at 1337 Programming School (42 Network) in Morocco 🇲🇦
+### 👋 I’m a Software Engineering Student at 1337 Programming School (42 Network) in Morocco 🇲🇦
 * 🚀 **My Passion:** Combining deep, low-level computer science foundations with modern high-level software architectures. 
 * 🐍 **Current Mastery:** Proficient in **Python** and **C/C++**, focusing on rigorous data structures and custom algorithm design from scratch.
 * 🌱 **Moving Forward:** Actively expanding my engineering toolkit into **Full-Stack Web Development** and **AI Integrations**.
@@ -12,75 +16,59 @@
   <img src="https://komarev.com/ghpvc/?username=youssenna&label=Profile%20views&color=0e75b6&style=flat" alt="youssenna" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssenna" alt="youssenna" /></a> 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
+### 🔗 Connect With Me
 
-## 🛠️ Featured Python Projects
-
-### 🛸 Fly-in — **125/100**
-An autonomous, object-oriented drone routing simulation built completely from scratch in Python without external graph or network libraries.
-* **Graph Engine:** Implemented a bidirectional adjacency graph utilizing a custom Dijkstra's algorithm with dynamic cost adjustments to actively handle path congestion.
-* **Turn-Based Simulation:** Engineered conflict resolution logic, connection bottlenecks, and strict capacity throttling across complex map networks.
-* **GUI Visualizer:** Developed a responsive, scalable rendering engine using **Pygame** to visualize routing execution and zone tracking in real time.
-* **Code Quality:** Enforced structural type safety, passing rigorous `mypy` and `flake8` compliance testing.
-
-### 🧩 A-maze-ing (Procedural Maze System)
-A robust geometric maze generator and pathfinding solver engineered natively in Python.
-* **Algorithmic Complexity:** Utilized recursive backtracking and Prim's algorithms for logical, randomized maze generation.
-* **Package Architecture:** Structured and built the environment into a clean, distributable Python wheel (`.whl`) package ready for pip installation.
-
----
-
-## 📚 42 / 1337 Common Core Projects
-
-### 🧱 libft — **125/100**
-* Custom implementation of foundational C library functions to master memory management, pointers, and data structures.
-* 🔗 [repo of project](https://github.com/youssenna/libft-C_library-)
-  
-### 🔀 push_swap — **125/100**
-* Highly optimized stack-based data sorting program utilizing computational complexity analysis.
-* Implemented an algorithmic operational logic heavily inspired by the Turk Algorithm to minimize instruction sets.
-* 🔗 [repo of project](https://github.com/youssenna/push_swap)
-
-### 🐧 Born2beroot — **110/100**
-* Secure system administration deployment utilizing VirtualBox and Debian. 
-* Configured strict LVM partitioning, UFW firewalls, SSH keys, password aging policies, and custom bash monitoring cronjobs.
-  
-### 🖨️ ft_printf — **100/100**
-* Native rewrite of the standard printf configuration, managing formatting specifications and handling variadic functions in C.
-* 🔗 [repo of project](https://github.com/youssenna/ft_printf)
-  
-### 📄 get_next_line — **112/100**
-* Highly efficient line-by-line text file stream reader utilizing static variables and precise heap memory management.
-* 🔗 [repo of project](https://github.com/youssenna/get_next_line)
-
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/youssef-ennajar-213985253/" target="blank"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cc5f7b04-4f18-4f6c-8e81-a776de654f4b" /></a> 
-<a href="https://fb.com/coding.with.moljlaba" target="blank"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/02122df5-c8cc-414c-945e-dd2360a364f7" /></a>
-<a href="https://www.instagram.com/youssef_ennajar1?igsh=dDJ1ZjZpYXNya3B3" target="blank"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/990dcbdc-b61b-40d1-8207-a9204bb5c793" /></a>
-<a href="https://youtube.com/@codingwithmoljlaba?si=C285JrhPtoZ122wl" target="blank"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2ab8b0e9-c6a6-4482-a5d4-2f0aa0310417" /></a>
-<a href="https://discord.gg/sbBdscjJht" target="blank"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/18a3570b-74fe-4f6d-b9e5-40ea81fbf2ef" /></a>
+  <a href="https://www.linkedin.com/in/youssef-ennajar-yousenna/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/youssef_ennajar1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@codingwithmoljlaba" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:youssefennajar2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ebfa94a7-146f-478a-bcf4-bd422b91f694" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/31b88f44-141f-435a-a0bd-08fc9a0615ef" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7bbd2957-658b-47d8-ab3c-b2a404f1f9f1" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fbd2fd27-6be0-4f80-819b-31ca16a84d7d" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/39a9a0b3-6f97-414e-bc51-8ac366a5b140" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/91d9f256-75b5-484b-8607-6e76840060b6" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/939ebe36-fdf9-4d34-a02e-7ec8e5068036" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ee207587-f389-4ec0-976a-023bea7fc770" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/258aab50-e17b-4f23-9996-df102f6e11b4" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/893773b5-2019-411c-a865-298090e7fdeb" />
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/04da6c60-ebe5-4e89-a4d9-a8dd048e5e20" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=youssenna&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=youssenna&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssenna&" alt="youssenna" /></p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssenna&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/youssenna">youssenna</a></i></p>
