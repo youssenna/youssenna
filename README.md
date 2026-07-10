@@ -12,7 +12,7 @@
 * 🌱 **Moving Forward:** Actively expanding my engineering toolkit into **Full-Stack Web Development** and **AI Integrations**.
 * 🤝 **Collaboration:** Love working on complex, logic-driven systems and open-source software that creates meaningful impact.
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=youssenna&label=Profile%20views&color=0e75b6&style=flat" alt="youssenna" /> 
 </p>
 
