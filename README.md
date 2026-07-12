@@ -20,23 +20,8 @@
 <img src="https://img.shields.io/badge/Morocco-Software_Engineer-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@codingwithmoljlaba">
-<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/in/youssef-ennajar-yousenna/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:youssefennajar2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/youssenna">
-<img src="https://img.shields.io/badge/GitHub-youssenna-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=youssenna&label=Profile+Views&style=for-the-badge&color=7C3AED"/>
 
