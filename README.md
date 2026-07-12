@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=timeGradient&customColorList=0,1,30,14&text=Youssef%20Ennajar&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineering%20Student%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=timeGradient&customColorList=24,20,25,14&text=Youssef%20Ennajar&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineering%20Student%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=timeGradient&customColorList=0,1,30,14&center=true&vCenter=true&width=950&lines=Software+Engineering+Student+at+1337+(42+Network);AI+%7C+Full+Stack+%7C+Systems+Programming;Building+Scalable+Software+Products;Open+Source+Contributor;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=8E54E9&center=true&vCenter=true&width=950&lines=Software+Engineering+Student+at+1337+(42+Network);AI+%7C+Full+Stack+%7C+Systems+Programming;Building+Scalable+Software+Products;Open+Source+Contributor;Always+Learning+Always+Building"/>
 
 <br>
 
@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/Morocco-Software_Engineer-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </a>
 
-<a href="https://github.com/youssenna">
-<img src="https://img.shields.io/badge/Portfolio-GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.youtube.com/@codingwithmoljlaba">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/youssef-ennajar-yousenna/">
@@ -441,17 +441,6 @@ Algorithms • Systems Programming • Software Architecture • Problem Solving
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/youssenna/youssenna/main/trophy.svg"/>
-
-</div>
-
-
-
-
 # Contribution Activity
 
 <div align="center">
@@ -466,11 +455,10 @@ Algorithms • Systems Programming • Software Architecture • Problem Solving
 
 <div align="center">
 
-<img src="https://github.com/youssenna/youssenna/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/youssenna/youssenna/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-> **Note:** To enable the snake animation, create a GitHub Action that generates the `github-contribution-grid-snake-dark.svg` file in the `output` branch.
 
 ---
 
@@ -585,8 +573,8 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-youssenna-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/youssenna">
-<img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<a href="https://www.youtube.com/@codingwithmoljlaba">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
@@ -619,6 +607,6 @@ If you find my projects useful, consider:
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=timeGradient&customColorList=0,1,30,14"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=timeGradient&customColorList=24,20,25,14"/>
 
 </div>
