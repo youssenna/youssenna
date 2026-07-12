@@ -367,7 +367,7 @@ Algorithms • Systems Programming • Software Architecture • Problem Solving
 
 # Coding Profiles
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/youssenna/">
 <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -375,11 +375,11 @@ Algorithms • Systems Programming • Software Architecture • Problem Solving
 <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/youssefennajar2">
 <img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/yousenna">
 <img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
